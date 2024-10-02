@@ -1,4 +1,4 @@
-# Pizza Ordering Program
+# Program Sistem Pemesanan Pizza
 
 ### Algoritma Pemrograman - Sistem Pemesanan Pizza
 
