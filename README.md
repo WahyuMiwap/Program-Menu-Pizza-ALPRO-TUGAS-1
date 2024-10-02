@@ -4,13 +4,16 @@
 
 Ini adalah proyek pemrograman yang dibuat sebagai bagian dari tugas Algoritma dan Pemrograman. Proyek ini adalah program pemesanan pizza interaktif yang memungkinkan pengguna untuk memilih pizza, jenis crust, ukuran pizza, dan tambahan keju. Setelah semua pilihan dibuat, program akan menampilkan ringkasan pesanan dan total tagihan.
 
-## Features
+## Fitur Pada Program ini
 - **User Input**: Pengguna memasukkan nama mereka dan memilih pizza dari menu.
 - **Multiple Choices**: Program menyediakan pilihan untuk berbagai jenis pizza, crust, dan ukuran.
 - **Extra Cheese**: Tersedia opsi tambahan keju dengan biaya ekstra.
 - **Order Summary**: Setelah semua pilihan diambil, program akan menampilkan ringkasan pesanan lengkap dengan total harga.
 
 ## Flowchart
+File Flowchart dapat diunduh atau dilihat di sini:
+[FILE FLOWCHART](https://github.com/WahyuMiwap/Program-Menu-Pizza-ALPRO-TUGAS-1/blob/main/Flowchart.jpg)
+
 Berikut adalah penjelasan alur kerja program yang digambarkan melalui flowchart:
 
 1. **Mulai**: Program dimulai dengan menampilkan sambutan "Welcome to AENS Pizza".
@@ -26,6 +29,9 @@ Berikut adalah penjelasan alur kerja program yang digambarkan melalui flowchart:
 
 ## Source Code
 Program ditulis dalam bahasa **Python** dan menggunakan struktur logika seperti `while loops` dan `if-else` statements untuk menangani input pengguna serta validasi data.
+
+Source code lengkap dapat diunduh atau dilihat di sini:
+[FILE SOURCE CODE](https://github.com/WahyuMiwap/Program-Menu-Pizza-ALPRO-TUGAS-1/blob/main/main.py)
 
 ### Contoh Potongan Kode:
 ```python
